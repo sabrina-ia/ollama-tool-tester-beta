@@ -1,0 +1,16 @@
+# Arquivos de resultados
+tools_results/
+*.csv
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
