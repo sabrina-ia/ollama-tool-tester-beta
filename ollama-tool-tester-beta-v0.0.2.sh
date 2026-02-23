@@ -929,10 +929,15 @@ echo ""
 echo -e "${SAB_CYAN}Modelo              | Suporte | Conf. | T1    | T2    | T3    | Status${NC}"
 echo -e "${SAB_CYAN}────────────────────┼─────────┼───────┼───────┼───────┼───────┼────────────────${NC}"
 
+# =============================================================================
+# RESUMO FINAL - CORREÇÃO: REMOVIDO 'local' DA VARIÁVEL STATUS
+# =============================================================================
+
 while IFS=',' read -r modelo suporte conf t1 t2 t3 exemplo timestamp versao os_info virt_info empresa desenvolvedor; do
     [ "$modelo" = "modelo" ] && continue
     
-    local status=""
+    # CORREÇÃO: Removido 'local' - variável global no loop
+    status=""
     if [ "$suporte" = "SIM" ]; then
         status="${SAB_GREEN}✅ APROVADO${NC}"
     elif [ "$suporte" = "PROVAVEL" ]; then
