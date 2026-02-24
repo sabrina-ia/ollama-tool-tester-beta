@@ -24,6 +24,28 @@ Beta-vX.Y.Z
 
 ---
 
+### Beta-v0.0.4 (2026-02-24)
+
+**Autor:** Sabrina (SAB-01)
+
+#### ✅ Alterações:
+
+1. **Script Otimizado**
+   - Correções gerais no código
+   - Melhorias na detecção de virtualização
+   - Relatórios mais detalhados
+
+2. **Organização**
+   - Script anterior movido para deprecated/
+   - README atualizado para v0.0.4
+
+#### 📊 Status:
+- ✅ Script funcional
+- ✅ Release publicado
+- ✅ Documentação atualizada
+
+---
+
 ### Beta-v0.0.3 (2026-02-24)
 
 **Autor:** Sabrina (SAB-01)
