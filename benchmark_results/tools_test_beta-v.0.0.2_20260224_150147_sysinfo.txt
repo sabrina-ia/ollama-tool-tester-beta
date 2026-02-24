@@ -1,0 +1,52 @@
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    SAB TEC - TECNOLOGIA E SERVIÇOS                       ║
+║           Teste de Function Calling Tools para Ollama                    ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+METADADOS DO PROJETO:
+  Nome:        Ollama Tool Tester - Function Calling Validator
+  Versão:      beta-v.0.0.2
+  Release:     2026-02-24
+  Script:      ollama-tool-tester-beta-v.0.0.2.sh
+
+DESENVOLVEDOR:
+  Nome:        Tiago Sant Anna
+  Especialidade: AI Engineer | Especialista em LLMs & Agentes Autônomos
+
+CONTATO:
+  Email:       sab.tecno.ia@gmail.com
+  GitHub:      https://github.com/sabrina-ia
+  Issues:      https://github.com/sabrina-ia
+
+═══════════════════════════════════════════════════════════════════════════
+INFORMAÇÕES DO SISTEMA
+═══════════════════════════════════════════════════════════════════════════
+  Data/Hora:   2026-02-24 15:01:47
+  Modo Sudo:   AUTO
+  Modo Cores:  Ativo
+
+SISTEMA OPERACIONAL:
+  OS:          Ubuntu 24.04.4 LTS
+  Kernel:      6.8.0-100-generic
+  Arquitetura: x86_64
+
+VIRTUALIZAÇÃO:
+  Tipo:        Hyper-V
+  Classificação: VM
+  Host OS:     Windows
+
+HARDWARE:
+  CPU:         Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+  Cores:       28
+  RAM Total:   9,5Gi
+  RAM Disp.:   6,2Gi
+
+OLLAMA:
+  Versão:      ollama version is 0.16.3
+
+ARQUIVOS DE SAÍDA:
+  CSV:         /home/sabtecno/.openclaw/workspace/Projeto-S.A.B.R.I.N.A./github/ollama-tool-tester-beta/benchmark_results/tools_test_beta-v.0.0.2_20260224_150147.csv
+  LOG:         /home/sabtecno/.openclaw/workspace/Projeto-S.A.B.R.I.N.A./github/ollama-tool-tester-beta/benchmark_results/tools_test_beta-v.0.0.2_20260224_150147.log
+  SYSINFO:     /home/sabtecno/.openclaw/workspace/Projeto-S.A.B.R.I.N.A./github/ollama-tool-tester-beta/benchmark_results/tools_test_beta-v.0.0.2_20260224_150147_sysinfo.txt
+  RELATÓRIO:   /home/sabtecno/.openclaw/workspace/Projeto-S.A.B.R.I.N.A./github/ollama-tool-tester-beta/benchmark_results/tools_test_beta-v.0.0.2_20260224_150147_relatorio.txt
+═══════════════════════════════════════════════════════════════════════════

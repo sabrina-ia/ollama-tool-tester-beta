@@ -48,8 +48,8 @@ git clone https://github.com/sabtecno/ollama-tool-tester-beta.git
 cd ollama-tool-tester-beta
 
 # Execute o script
-chmod +x ollama-tool-tester-beta-v0.0.4.sh
-./ollama-tool-tester-beta-v0.0.4.sh
+chmod +x ollama-tool-tester-beta-v0.0.3.sh
+./ollama-tool-tester-beta-v0.0.3.sh
 ```
 ## Requisitos
 ### Infraestrutura Testada ✅
@@ -90,13 +90,13 @@ curl
 -h, --help : Exibe ajuda completa
 
 # Testar modelo com todas as ferramentas disponíveis
-./ollama-tool-tester-beta-v0.0.4.sh -m llama3.1 -t all
+./ollama-tool-tester-beta-v0.0.3.sh -m llama3.1 -t all
 
 # Testar apenas web search em modo estrito
-./ollama-tool-tester-beta-v0.0.4.sh -m mistral -t web_search -s
+./ollama-tool-tester-beta-v0.0.3.sh -m mistral -t web_search -s
 
 # Exportar resultados para CI/CD
-./ollama-tool-tester-beta-v0.0.4.sh -m qwen2.5 -j > results.json
+./ollama-tool-tester-beta-v0.0.3.sh -m qwen2.5 -j > results.json
 
 # Estrutura do Projeto
 ollama-tool-tester/
@@ -159,7 +159,7 @@ Empresa: SAB TEC - Tecnologia e Serviços
 Contato: sab.tecno@gmail.com
 GitHub: https://github.com/sabtecno
 
-# Versão: v0.0.4
+# Versão: v0.0.3
 Data de Lançamento: 2026-02-21
 Licenciado por: SAB Tecnologia e Serviços © 2026
 
