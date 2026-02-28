@@ -173,16 +173,16 @@ Licenciado por: SAB Tecnologia e Serviços © 2026
 Abaixo estão imagens do **Ollama Tool Tester Beta** em funcionamento:
 
 ### Tela Inicial - Logo ASCII Art
-![Tela Inicial](screenshots/ollama-tool-teste-02.png)
+![Tela Inicial](screenshots/ollama-tool-testes-01.png)
 
 ### Menu Interativo
-![Menu Interativo](screenshots/ollama-tool-teste-03.png)
+![Menu Interativo](screenshots/ollama-tool-testes-02.png)
 
 ### Execução dos Benchmarks
-![Execução Benchmarks](screenshots/ollama-tool-teste-03.png)
+![Execução Benchmarks](screenshots/ollama-tool-testes-03.png)
 
 ### Resultados e Métricas
-![Resultados](screenshots/ollama-tool-teste-04.png)
+![Resultados](screenshots/ollama-tool-testes-04.png)
 
 ## Agradecimentos
 Este projeto ganhou forma graças à invaluable ajuda e suporte da Comunidade Automatik. A troca de conhecimentos, feedback técnico e colaboração dentro desta comunidade foram fundamentais para o desenvolvimento e aprimoramento desta ferramenta.
